@@ -1,0 +1,5 @@
+classes=1 
+train=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train40_val10/train.txt
+valid=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train40_val10/valid.txt
+test=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train40_val10/test.txt
+names=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train40_val10/classes.names

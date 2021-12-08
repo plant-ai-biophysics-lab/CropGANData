@@ -1,0 +1,15 @@
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/30296.96.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/33033.03.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/35368.7.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/256456.46.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/258458.46.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/30296.96.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/247180.51.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/249516.18.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/254387.72.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/27027.03.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/251985.32.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/245045.04.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/260593.93.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/40040.04.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//valid/images/38038.04.png

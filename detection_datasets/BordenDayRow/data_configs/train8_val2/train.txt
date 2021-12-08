@@ -1,0 +1,8 @@
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010070000537.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010078000308.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010070000560.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010076001324.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010070000581.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010076001295.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010078000258.png
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//train/images/GH010078000168.png

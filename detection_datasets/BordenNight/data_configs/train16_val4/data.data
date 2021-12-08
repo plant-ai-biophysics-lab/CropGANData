@@ -1,0 +1,5 @@
+classes=1 
+train=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//data_configs/train16_val4/train.txt
+valid=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//data_configs/train16_val4/valid.txt
+test=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//data_configs/train16_val4/test.txt
+names=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//data_configs/train16_val4/classes.names

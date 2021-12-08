@@ -1,0 +1,10 @@
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091620-Color2-1599969167481649008.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/092020-Color1-1599970819938000560.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091620-Color2-1599968381382103632.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091220-Color1-1599971070474991760.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091220-Color1-1599972121696115184.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091120-Color1-1599683374061798168.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091820-Color2-1599970072499188592.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091620-Color2-1599968824097981616.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091620-Color2-1599973123158510128.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//train/images/091620-Color2-1599973098274311408.jpg

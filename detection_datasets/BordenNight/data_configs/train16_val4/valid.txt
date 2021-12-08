@@ -1,0 +1,4 @@
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091820-Color2-1599972820328897616.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color2-1599974117154831312.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091820-Color2-1599972980375814704.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091620-Color2-1599968986877153328.jpg

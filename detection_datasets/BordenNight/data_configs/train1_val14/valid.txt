@@ -1,0 +1,14 @@
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091820-Color2-1599972820328897616.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color2-1599974117154831312.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091820-Color2-1599972980375814704.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091620-Color2-1599968986877153328.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091120-Color1-1599681048794415576.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091820-Color2-1599972820328897616.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color1-1599974027843967568.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color2-1599971665077258864.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/092020-Color1-1599970866103378032.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color1-1599971761366378032.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color1-1599971516257850064.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091120-Color2-1599680525234374968.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091220-Color1-1599974030979376784.jpg
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091620-Color2-1599968885607607568.jpg

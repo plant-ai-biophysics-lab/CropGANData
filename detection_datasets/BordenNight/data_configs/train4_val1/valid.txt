@@ -1,0 +1,1 @@
+/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenNight//valid/images/091820-Color2-1599972820328897616.jpg
