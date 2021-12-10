@@ -1,5 +1,7 @@
-classes=1 
-train=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train1_val1/train.txt
-valid=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train1_val1/valid.txt
-test=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train1_val1/test.txt
-names=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow//data_configs/train1_val1/classes.names
+classes=1
+meta_folder=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow/data_configs/train1_val1
+data_folder=/data2/zfei/data/cycleGAN/yolo/paper_dataset/BordenDayRow
+train=train.txt
+valid=valid.txt
+test=test.txt
+names=classes.names
